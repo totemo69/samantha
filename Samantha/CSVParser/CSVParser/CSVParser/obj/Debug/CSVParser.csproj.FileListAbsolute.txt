@@ -1,0 +1,2 @@
+D:\Samantha\CSVParser\CSVParser\CSVParser\obj\Debug\CSVParser.exe
+D:\Samantha\CSVParser\CSVParser\CSVParser\obj\Debug\CSVParser.pdb
